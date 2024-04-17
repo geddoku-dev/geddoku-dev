@@ -34,9 +34,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://64.media.tumblr.com/bcd77cfcee86fe8c5b8b59b593a4bc99/a60da190248b8734-be/s540x810/eb9c89ebd6d76c86ee9c94943acea621e5f92030.gif"  />
-</div>
-
-###
