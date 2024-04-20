@@ -1,4 +1,4 @@
-<h2 align="center">Hi! Welcome to my profile ⸜(｡˃ ᵕ ˂ )⸝♡</h2>
+<h2 align="center">Welcome to my profile ⸜(｡˃ ᵕ ˂ )⸝♡</h2>
 
 ###
 
